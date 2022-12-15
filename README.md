@@ -29,3 +29,13 @@
 ![information](https://github.com/equitygamingph/discord_presence/blob/main/dsc_presence_2.png)
 <br />
 ![information](https://github.com/equitygamingph/discord_presence/blob/main/dsc_presence_3.png)
+
+# <p align="center">Direct Download Link:</p>
+<p align="center">
+<a href="https://github.com/equitygamingph/discord_presence/releases/download/v1.3/samp.equitygaming.net_with_asiloader.zip">[samp.equitygaming.net with asi loader]</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/equitygamingph/discord_presence/releases/download/v1.3-raw/samp.equitygaming.net.asi">[samp.equitygaming.net without asi loader]</a>
+</p>
+
